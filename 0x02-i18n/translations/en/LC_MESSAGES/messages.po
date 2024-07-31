@@ -1,15 +1,15 @@
 # English translations for PROJECT.
 # Copyright (C) 2024 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+# FIRST AUTHOR <amiroudiallo.yw@gmail.com>, 2024.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"Report-Msgid-Bugs-To: amiroudiallo.yw@gmail.com\n"
 "POT-Creation-Date: 2024-07-31 13:58+0000\n"
 "PO-Revision-Date: 2024-07-31 13:58+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: FULL NAME <amiroudiallo.yw@gmail.com>\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
@@ -23,4 +23,3 @@ msgstr "Welcome to Holberton"
 
 msgid "home_header"
 msgstr "Hello world!"
-
